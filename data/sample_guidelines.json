@@ -1,0 +1,37 @@
+[
+  {
+    "title": "NICE Clinical Guideline CG190: Pneumonia in adults",
+    "summary": "Diagnosis and management of community- and hospital-acquired pneumonia, including severity assessment and antibiotic recommendations.",
+    "url": "https://www.nice.org.uk/guidance/cg190",
+    "source": "NICE",
+    "published_at": "2014-12-03"
+  },
+  {
+    "title": "NICE Guideline NG136: Hypertension in adults",
+    "summary": "Evidence-based recommendations on diagnosing and managing hypertension in adults, including thresholds and treatment strategies.",
+    "url": "https://www.nice.org.uk/guidance/ng136",
+    "source": "NICE",
+    "published_at": "2019-08-28"
+  },
+  {
+    "title": "CDC Clinical Practice Guideline: Prescribing Opioids for Pain",
+    "summary": "Recommendations for safe opioid prescribing in chronic pain management.",
+    "url": "https://www.cdc.gov/opioids/guideline",
+    "source": "CDC",
+    "published_at": "2022-11-04"
+  },
+  {
+    "title": "WHO: Clinical management of COVID-19",
+    "summary": "Guidance for healthcare providers on assessment and management of COVID-19 patients.",
+    "url": "https://www.who.int/publications/i/item/clinical-management-of-covid-19",
+    "source": "WHO",
+    "published_at": "2023-05-15"
+  },
+  {
+    "title": "NICE Guideline NG12: Suspected cancer recognition and referral",
+    "summary": "Referral recommendations for suspected cancer based on symptom profiles and risk thresholds.",
+    "url": "https://www.nice.org.uk/guidance/ng12",
+    "source": "NICE",
+    "published_at": "2021-12-01"
+  }
+]
